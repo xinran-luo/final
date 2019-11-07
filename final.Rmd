@@ -51,11 +51,27 @@ This table contains environmental data related to each of the 350 “countable�
 
 # 6. The planned analyses / visualizations / coding challenges
 
-Since this is a relatively large dataset with 36 variables and over 90000+ inputs, we plan to start with data cleaning (i.e: dealing with missing data properly, filtering out irrelevant variables, and grouping variables of interest into meaningful new variables based on our research questions. 
+Since this is a relatively large dataset with 36 variables and over 90000+ inputs, we plan to start with data cleaning (i.e: 
 
-Figures and tables will be used to visualize the characteristics of squirrels (such as age, primary and highlight fur color, and locations they prefer to stay) and the distribution of squirrel’s performance and activity in Central Park. The figures include bar plots, box plots, scatter plots, etc. The activity of squirrels will also be shown through spatial distribution with a map.
+dealing with missing data properly, filtering out irrelevant variables, and grouping variables of interest into meaningful new 
 
-Most variables pertinent to our research question are categorical variables that render some difficulties when presenting our results visually. This would also pose some difficulties in modeling when logistic regression would be the most appropriate model to use here which we have not learned in class yet. 
+variables based on our research questions. 
+
+
+Figures and tables will be used to visualize the characteristics of squirrels (such as age, primary and highlight fur color,
+
+and locations they prefer to stay) and the distribution of squirrel’s performance and activity in Central Park. The figures 
+
+include bar plots, box plots, scatter plots, etc. The activity of squirrels will also be shown through spatial distribution 
+
+with a map.
+
+
+Most variables pertinent to our research question are categorical variables that render some difficulties when presenting our 
+
+results visually. This would also pose some difficulties in modeling when logistic regression would be the most appropriate 
+
+model to use here which we have not learned in class yet. 
 
 # 7. The planned timeline
 **11.7-11.14**:

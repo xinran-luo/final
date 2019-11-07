@@ -20,9 +20,9 @@ Tianna Ouyang(to2345)
 
 Squirrels have always served as a needed source of entertainment in Central Park. Other rodent's population has been well traced and documented by human, but not always Squirrels. However, the necessity of mapping the total population of squirrels in Central Park is observed as it depicts this community's size and growth, which is highly related to the evaluation of this community's functioning as a source of entertainment, as well as their potential of harboring and delivering pathogens to human.
 
-In this project, we use The Squirrel Census data from NYC Open Data host, which focuses on Eastern gray species specifically. For this project, we aim at depicting a full picture of the current squirrels commmunity in Central Part, with regards to their demographics statistics as well as their living status. We also intend to assess their performance and activity in Central Park, by evaluating their interactions with humans.
+In this project, we use The Squirrel Census data from NYC Open Data host, which focuses on Eastern gray species specifically. For this project, we aim at depicting a full picture of the current squirrels commmunity in Central Park, with regards to their demographics statistics as well as their living status. We also intend to assess their performance and activity of Squirrels in Central Park, by evaluating their interactions with humans.
 
-We believe this project can provide evidence-based information to the design and planning of Central Park, as well as contribute to the aspect of the evaluation and regulation of the Squirrel team.
+We believe this project can provide evidence-based information of the Central Park Squirrel community, as well as contribute to the aspect of the evaluation and regulation of the Squirrel team. This project also have the potential in providing further management insights for the planning and designing aspect of the Central Park. 
 
 
 

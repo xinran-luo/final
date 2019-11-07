@@ -52,8 +52,11 @@ predictor, we intend to build a predictive model to assess the
 interaction between squirrels and human. 4) Conclusion and comparison:
 After we calculate our coefficients in our model, we will get some
 conclusions. By comparing other people’s findings with our results, we
-would like to plan the next step analysis. \# 5. The anticipated data
-sources The Squirrel Census (<https://www.thesquirrelcensus.com/>) is a
+would like to plan the next step analysis.
+
+# 5\. The anticipated data sources
+
+The Squirrel Census (<https://www.thesquirrelcensus.com/>) is a
 multimedia science, design, and storytelling project focusing on the
 Eastern gray (Sciurus carolinensis). They count squirrels and present
 their findings to the public. We use the following 2 datasets:

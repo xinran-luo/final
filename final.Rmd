@@ -32,7 +32,12 @@ We believe this project can provide evidence-based information of the Central Pa
 
 # 4. The intended final products
 
-
+We expect to create a website contains 4 main aspects: 
+1) Background and introduction: briefly introduce our motivation and our dataset as well as our results. Maybe this part will include some pictures and videos of squirrels to make our website more enjoyable. 
+2) Descriptive statistics: using tables and plots to describle the distribution of squirrels and their activities in central park. For example, their frequency of appearance, the most popular place for squirrels. 
+3) Correlation chart & predictive model: Before building any models, we would like to see the correlations between different variables in our dataset. Then we could choose what variables we would use for building models based on the plot we generated.
+By using squirrels performance and activities as predictor, we intend to build a predictive model to assess the interaction between squirrels and human.
+4) Conclusion and comparison: After we calculate our coefficients in our model, we will get some conclusions. By comparing other people's findings with our results, we would like to plan the next step analysis.
 # 5. The anticipated data sources
 The Squirrel Census (https://www.thesquirrelcensus.com/) is a multimedia science, design, and storytelling project focusing on the Eastern gray (Sciurus carolinensis). They count squirrels and present their findings to the public. We use the following 2 datasets:
 
